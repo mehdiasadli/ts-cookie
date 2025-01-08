@@ -1,16 +1,16 @@
 {
-  "name": "ts-cookie",
+  "name": "@mehdiasadov/ts-cookie",
   "version": "1.0.0",
   "description": "Modern, TypeScript-first cookie library for browsers",
   "type": "module",
+  "types": "./dist/index.d.ts",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
-  "types": "./dist/index.d.ts",
   "exports": {
     ".": {
+      "types": "./dist/index.d.ts",
       "require": "./dist/index.cjs",
-      "import": "./dist/index.js",
-      "types": "./dist/index.d.ts"
+      "import": "./dist/index.js"
     }
   },
   "files": [

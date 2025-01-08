@@ -1,8 +1,8 @@
-# ts-cookie Documentation
+# @mehdiasadov/ts-cookie Documentation
 
 ## Table of Contents
 
-- [ts-cookie Documentation](#ts-cookie-documentation)
+- [@mehdiasadov/ts-cookie Documentation](#mehdiasadovts-cookie-documentation)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Basic Usage](#basic-usage)
@@ -23,19 +23,19 @@
 
 ```bash
 # Using npm
-npm install ts-cookie
+npm install @mehdiasadov/ts-cookie
 
 # Using yarn
-yarn add ts-cookie
+yarn add @mehdiasadov/ts-cookie
 
 # Using pnpm
-pnpm add ts-cookie
+pnpm add @mehdiasadov/ts-cookie
 ```
 
 ## Basic Usage
 
 ```typescript
-import Cookies from 'ts-cookie';
+import Cookies from '@mehdiasadov/ts-cookie';
 
 // Set a cookie
 Cookies.set('name', 'value');
@@ -139,8 +139,8 @@ Parameters:
 The library is written in TypeScript and provides full type definitions.
 
 ```typescript
-import Cookies from 'ts-cookie';
-import type { CookieAttributes } from 'ts-cookie';
+import Cookies from '@mehdiasadov/ts-cookie';
+import type { CookieAttributes } from '@mehdiasadov/ts-cookie';
 
 // All methods are fully typed
 const attributes: CookieAttributes = {
