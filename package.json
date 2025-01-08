@@ -36,16 +36,16 @@
     "client",
     "js-cookie"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Mehdi Asadli <asadlimehdi25@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/ts-cookie.git"
+    "url": "git+https://github.com/mehdiasadli/ts-cookie.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/ts-cookie/issues"
+    "url": "https://github.com/mehdiasadli/ts-cookie/issues"
   },
-  "homepage": "https://github.com/yourusername/ts-cookie#readme",
+  "homepage": "https://github.com/mehdiasadli/ts-cookie#readme",
   "devDependencies": {
     "@types/jest": "^29.0.0",
     "@typescript-eslint/eslint-plugin": "^6.0.0",
